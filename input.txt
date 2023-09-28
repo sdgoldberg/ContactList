@@ -1,0 +1,17 @@
+Goldberg,Sam,(999) 832-4924,pictures/pic.png,
+Bezos,Jeff,(201) 677-9852,pictures/jeffBezos.jpeg,
+Rogan,Joe,(986) 455-5218,pictures/joeRogan.jpeg
+ ,Bucky,(608) 263-2400,pictures/bucky.jpeg
+Presley,Elvis,(315) 982-9857,pictures/elvis.jpeg
+Bowie,David,(201) 921-4305,pictures/davidBowie.jpeg
+Doe,Jane,(918) 565-2599,
+Lincoln,Abraham,(908) 552 0845,
+Miller,Mac,(704) 791 0954,pictures/macMiller.jpeg
+Halpert,Jim,(455) 909 9099,
+C,Ronald,(917) 881-3700,
+Doe,John,(917) 865-5544,
+Bale,Christain, (808) 099 5905,
+Cruise,Tom,(707) 557 0999,pictures/tomCruise.jpeg
+Musk,Elon,(010) 101 0101,pictures/elonMusk.jpeg,
+Edison,Thomas,(333) 303 3333,
+McGregor,Conor,(201) 566 9852,pictures/conorMcgregor.jpeg
